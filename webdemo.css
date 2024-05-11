@@ -1,0 +1,26 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: sans-serif;
+    background-image:url(./images/social.jpg) ;
+}
+.comtainer{
+    width:100%;
+    height: 100%;
+    background-color: aqua;
+}
+.comtainer head logo {
+    width: 20px;
+    height: 20px;
+}
+.head ul li{
+    list-style: none;
+    margin: 0 30px;
+    cursor: pointer;
+    color: aquamarine;
+}
+.logo img{
+    width: 10%;
+    height: 10%;
+
+}

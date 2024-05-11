@@ -1,0 +1,87 @@
+body{
+background-image:url(./images/5g\ phone.jpg) ;
+}
+div{
+    text-align: center;
+    font-size:large;
+    color: aqua;
+
+}
+strong{
+    font-size: xx-large;
+    color:burlywood;
+text-decoration: dotted;
+}
+#page2{
+font-size: small;
+text-decoration: none;
+}
+.google{
+    border: 5px solid green;
+    background-color: rgb(29, 29, 122);
+    border-radius:10px ;
+    margin-left: 370px;
+    margin-right: 470px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    display: flex;
+    flex-direction: column;
+}
+a{
+    color:white;
+}
+.facebook{
+    border: 5px solid green;
+    background-color: blue;
+    border-radius:10px ;
+    margin-left: 370px;
+    margin-right: 470px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.google img{
+    width: 20px;
+    height: 20px;
+}
+.apple{
+    border: 5px solid green;
+    background-color: white;
+    border-radius:10px ;
+    margin-left: 370px;
+    margin-right: 470px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: black;
+}
+.apple img{
+    width: 20px;
+    height: 20px;
+}
+.apple a{
+    color: black;
+}
+.hr{
+    color: aquamarine;
+    direction:strong;
+}
+#email{
+    color:wheat;
+    text-align: left;
+}
+.apple{
+    align-items: center;
+}
+button{
+background-color: aquamarine;
+font-size: large;
+margin-left: 30px;
+margin-right: 30px;
+padding-left: 30px;
+padding-right: 30px;
+border: 3px solid green;
+border-radius: 10px;
+}
+button:hover{
+    color: blueviolets;
+    background-color: blue;
+}

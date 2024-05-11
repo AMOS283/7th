@@ -1,0 +1,103 @@
+section {
+    margin:25px;
+    padding:0;
+    text align:center;
+    
+    }
+    form{
+    background-color:rgba(190, 88, 88, 0.222);
+    text-align:center;
+    color: aliceblue;
+    border: 20px;
+    border-radius: 5px solid slateblue ;
+    
+    }
+    
+    header
+    {
+        background:none ;
+        float:center;
+    margin-left: 0%;
+    padding: auto;
+    }
+    #banner{
+        align-items: center;
+        padding:5px ;
+        margin: bottom 2.5em; ;
+    
+    }
+    nav ul li {
+        text-align:right;
+        text-decoration:none;
+        color: black;
+        font-weight: 800;
+        position:relative;
+        padding: 10px;
+        display: inline;
+        margin: 7% 30px ;
+}
+nav ul li a::before{
+    content: ;
+width: 100%;
+height: 90px;
+background:rgb(153, 165, 255);
+position: absolute;
+z-index: -1;
+left: 0px;
+bottom: -5px;
+}
+body{
+    background-image:
+    url('images/3d.jpg');
+    font-size:small;
+    background-size: cover;
+}
+ h1{ text-align:center;
+    text-decoration: double;
+    font: size 300px;
+    color: brown;
+    border:5px solid rgb(41, 8, 82);
+    border-radius: 10px;
+    background-color: black;
+    max-width: fit-content;
+
+ }
+ button{
+    color: rgb(42, 108, 165);
+    margin: 10px;
+    padding: auto;
+    box-shadow: 50%;
+    background-color: gold;
+
+ }
+ butto:hover{
+    color: aqua;
+ }
+ h3{
+    color:paleturquoise;
+    border:5px solid rgb(41, 8, 82);
+    border-radius: 10px;
+    background-color: black;
+    max-width: fit-content;
+ }
+ image{
+    font-style:horizontal;
+    font-display:60;
+    border: radius 5px;
+
+ }
+ div::content{
+    text-align:horizontal;
+    text-decoration:none;
+    color: black;
+    font-weight: 800
+    padding: 10px;
+    display: inline;
+    margin: 7% 30px ;
+    position:horizontal;
+ }
+
+
+ 
+
+

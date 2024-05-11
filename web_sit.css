@@ -1,0 +1,78 @@
+body{
+    background-image: url('images/social.jpg');
+    size: cover;
+}
+.art{
+    font-size: larger;
+    color: wheat;
+    border: 50px;
+     border-top-right-radius: 5px solid pink;
+    margin: 10px;
+    padding-top:10px ;
+    text-align: center;
+    background-color: black;
+}
+span{
+    color: blue;
+}
+.pix1{
+    align-items:center;
+    font-size: medium;
+    color:brown;
+margin-top: 10px;
+padding: left 20px;
+}
+.pix2{
+text-align: center;
+font-size:xx-large;
+color: beige;
+align-items: baseline;
+top: 50%;
+left: 50%;
+transform: translate(-10%,-10%);
+}
+.head{
+    color: rgb(0, 255, 251);
+    border-top-right-radius:360px;
+    border: 5px solid green;
+background-color: blueviolet;
+margin: 5%;
+}
+.art2{ 
+text-align: center;
+font-size: large;
+color: beige;
+background-color: black;
+border:radius 360px;
+border: 5px solid green;
+}
+a{
+    color: brown;
+    font-size: larger;
+    display: inline;
+
+}
+.digital{
+    color: aqua;
+    text-align:center ;
+
+}
+.video{
+    text-align: center;
+    color:lightblue
+}
+.note{
+    background-color: aqua;
+    color:gray;
+}
+.us{
+    background: color #181818;
+    color: blue;
+    border: 120px;
+    border-radius:5% ;
+}
+.top{
+    text-align:center;
+    color: blueviolet;
+    text-overflow: ellipsis;
+}
